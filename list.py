@@ -115,3 +115,4 @@ print(list1)
 
 Name='Bisma'
 print(Name.find("is"))
+

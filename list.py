@@ -116,3 +116,12 @@ print(list1)
 Name='Bisma'
 print(Name.find("is"))
 
+
+#concatenate lists
+list1 = ["a", "b" , "c"]
+list2 = [1, 2, 3]
+list3=list1+list2
+print("list3 is ",list3)
+
+del list3[2:5]
+print("list3 deleted", list3)
